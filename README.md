@@ -1,14 +1,14 @@
 # Pizera - Fortnite "Cheating" Software
 
 ## ⚠️ WARNING ⚠️
-**We are NOT responsible for any bans, hardware issues, or other consequences that may arise from using Pizera. Use at your own risk!**
+**We are NOT responsible for any bans, hardware issues, or other consequences that may arise from using Pizzera. Use at your own risk!**
 
-**If someone sold this to you, you have been scammed. Pizera is completely free and open-source.**
+**If someone sold this to you, you have been scammed. Pizzera is completely free and open-source.**
 
 ---
 
 ## About
-Pizera is a tool designed for experimentation and educational purposes only. It is not intended for malicious use or to harm the integrity of online gaming. 
+Pizzera is a tool designed for experimentation and educational purposes only. It is not intended for malicious use or to harm the integrity of online gaming. 
 
 ## Features
 - Infinite Ammo
@@ -27,7 +27,7 @@ Pizera is a tool designed for experimentation and educational purposes only. It 
 ## Installation
 - Download the code
 - Extract the ZIP
-- Execute **Pizera.exe**
+- Execute **Pizzera.exe**
 - Follow the instructions
 - Enjoy!
 
